@@ -2,7 +2,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zegic&layout=compact)](https://github-readme-stats-ten-gilt.vercel.app)
 ## Connect with me:
 email : chazegic@gmail.com
+
 study at : 中国民航大学
+
 - [github](https://github.com/Zegic)
 ## Skills
 #### Programming Languages
