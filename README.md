@@ -18,12 +18,12 @@ email : chazegic@gmail.com
 
 study at : 中国民航大学
 
-## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zegic&show_icons=true&theme=cobalt)
-
 
 <!--
 **Zegic/Zegic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## GitHub Stats
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zegic&show_icons=true&theme=cobalt)
 
 Here are some ideas to get you started:
 
