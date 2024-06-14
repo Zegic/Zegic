@@ -4,11 +4,9 @@ A student majoring in Cyber Security , at Civilaviation University.
 ## Skills
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,go)
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css)
-#### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-#### Other tools & Technologies
+#### Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,docker)
+#### Other tools
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,eclipse)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zegic&layout=compact)](https://github-readme-stats-ten-gilt.vercel.app)
