@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi, guys, I am Sichay Zegic.
+## Welcome to my GitHub profile! 🌟
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zegic&layout=compact)](https://github-readme-stats-ten-gilt.vercel.app)
+## Connect with me:
+email : chazegic@gmail.com
+study at : 中国民航大学
+- [github](https://github.com/Zegic)
+## Skills
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,java)
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css)
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=pwntools,aircrack,kali-linux)
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode)
+
+
 
 <!--
 **Zegic/Zegic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
