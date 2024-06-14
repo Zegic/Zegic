@@ -19,7 +19,12 @@ email : chazegic@gmail.com
 study at : 中国民航大学
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zegic&layout=compact)](https://github-readme-stats-ten-gilt.vercel.app)
 
+  
+</div>  
+
+![ppOSjzD.png](https://s1.ax1x.com/2023/04/11/ppOSjzD.png)
 
 
 
