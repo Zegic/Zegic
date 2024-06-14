@@ -1,4 +1,7 @@
 ## Hi, guys, I am Sichay Zegic.
+
+A student majoring in Cyber Security , at Civilaviation University.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zegic&layout=compact)](https://github-readme-stats-ten-gilt.vercel.app)
 ## Connect with me:
 email : chazegic@gmail.com
@@ -14,7 +17,7 @@ study at : 中国民航大学
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,eclipse)
 
 
 
