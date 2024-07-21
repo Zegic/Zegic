@@ -7,6 +7,7 @@ A student majoring in Cyber Security , at Civilaviation University.
 #### Technologies & Other tools
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,docker)
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,eclipse)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zegic&layout=compact)](https://github-readme-stats-ten-gilt.vercel.app)
 ## Connect with me:
 
