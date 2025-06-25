@@ -15,7 +15,7 @@ A student majoring in Cyber Security , at Civilaviation University.
 
 email : chazegic@gmail.com
 
-study at : 中国民航大学
+graduated from : 中国民航大学
 
 
 <!--
